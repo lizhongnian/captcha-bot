@@ -60,7 +60,7 @@ cp .env.example .env
 ```shell
 # linux
 # 调试启动
-./cbot
+./captcha-bot
 # nohup 常驻启动
 
 # windows
