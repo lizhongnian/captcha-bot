@@ -51,7 +51,7 @@ nohup ./cbot >> run.log 2>&1 &
 
 ### 二、下载已经编译好的二进制程序
 此方式可以直接使用，用于服务器生产环境。
-进入打包好的版本列表，下载程序：[https://github.com/assimon/captcha-bot/releases](https://github.com/assimon/captcha-bot/releases)
+进入打包好的版本列表，下载程序：[https://github.com/assimon/captcha-bot/releases](https://github.com/assimon/captcha-bot/releases)    
 配置：  
 ```shell
 cp .env.example .env
